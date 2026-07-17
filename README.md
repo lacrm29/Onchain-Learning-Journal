@@ -30,3 +30,9 @@ The repository is designed to evolve gradually as new technologies and ecosystem
 Each document focuses on a specific topic to keep information organized and easy to navigate.
 Separating concepts into dedicated files allows the knowledge base to grow without becoming difficult to maintain.
 This structure supports continuous improvements through small, incremental updates.
+
+## Final Notes
+
+This repository serves as a long-term learning journal covering blockchain fundamentals, protocol concepts, wallet security, and ecosystem research.
+The documentation will continue to expand as new ideas, technologies, and practical experiences are explored.
+Maintaining consistent updates helps create a structured and sustainable knowledge base over time.
