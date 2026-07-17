@@ -18,3 +18,9 @@ The repository is intended to grow gradually through continuous research and exp
 The objective is to maintain clear, practical, and easy-to-follow documentation for ongoing learning.
 Each update reflects incremental improvements rather than complete revisions.
 Keeping information organized supports better understanding as the blockchain ecosystem continues to evolve.
+
+## Learning Philosophy
+
+Learning blockchain technologies is an ongoing process that combines theory with practical experience.
+Documenting concepts and observations helps reinforce understanding while creating a useful reference for future exploration.
+The repository is designed to evolve gradually as new technologies and ecosystems emerge.
