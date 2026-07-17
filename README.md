@@ -24,3 +24,9 @@ Keeping information organized supports better understanding as the blockchain ec
 Learning blockchain technologies is an ongoing process that combines theory with practical experience.
 Documenting concepts and observations helps reinforce understanding while creating a useful reference for future exploration.
 The repository is designed to evolve gradually as new technologies and ecosystems emerge.
+
+## Repository Structure
+
+Each document focuses on a specific topic to keep information organized and easy to navigate.
+Separating concepts into dedicated files allows the knowledge base to grow without becoming difficult to maintain.
+This structure supports continuous improvements through small, incremental updates.
