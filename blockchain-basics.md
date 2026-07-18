@@ -10,3 +10,9 @@ This decentralized structure improves transparency, resilience, and data consist
 Transactions are grouped together into blocks before being added to the blockchain.
 Each block contains a reference to the previous one, creating a continuous and verifiable chain.
 This design makes historical records easier to validate and significantly more difficult to modify.
+
+## Decentralization
+
+Decentralization distributes responsibility across many independent participants instead of a single organization.
+This approach reduces single points of failure and increases network reliability.
+A decentralized network can continue operating even when individual participants leave or experience issues.
