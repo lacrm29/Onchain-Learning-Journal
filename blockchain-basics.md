@@ -16,3 +16,9 @@ This design makes historical records easier to validate and significantly more d
 Decentralization distributes responsibility across many independent participants instead of a single organization.
 This approach reduces single points of failure and increases network reliability.
 A decentralized network can continue operating even when individual participants leave or experience issues.
+
+## Consensus Mechanisms
+
+Blockchain networks use consensus mechanisms to agree on the validity of new transactions.
+Different consensus models balance security, decentralization, and performance in different ways.
+A reliable consensus process helps maintain trust across the entire network.
