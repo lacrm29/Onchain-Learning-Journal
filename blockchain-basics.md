@@ -28,3 +28,9 @@ A reliable consensus process helps maintain trust across the entire network.
 Once data is confirmed and added to the blockchain, altering it becomes extremely difficult.
 This characteristic helps preserve transaction history and improves confidence in recorded information.
 Immutability is one of the fundamental properties that distinguish blockchain systems from traditional databases.
+
+## Transparency
+
+Public blockchains allow participants to verify transactions through openly accessible records.
+This transparency supports accountability while enabling independent verification of network activity.
+Although transactions are visible, personal identities are not necessarily revealed.
