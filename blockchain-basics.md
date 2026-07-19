@@ -22,3 +22,9 @@ A decentralized network can continue operating even when individual participants
 Blockchain networks use consensus mechanisms to agree on the validity of new transactions.
 Different consensus models balance security, decentralization, and performance in different ways.
 A reliable consensus process helps maintain trust across the entire network.
+
+## Immutability
+
+Once data is confirmed and added to the blockchain, altering it becomes extremely difficult.
+This characteristic helps preserve transaction history and improves confidence in recorded information.
+Immutability is one of the fundamental properties that distinguish blockchain systems from traditional databases.
