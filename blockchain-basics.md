@@ -34,3 +34,9 @@ Immutability is one of the fundamental properties that distinguish blockchain sy
 Public blockchains allow participants to verify transactions through openly accessible records.
 This transparency supports accountability while enabling independent verification of network activity.
 Although transactions are visible, personal identities are not necessarily revealed.
+
+## Smart Contracts
+
+Smart contracts are self-executing programs deployed on a blockchain.
+They automatically perform predefined actions when specified conditions are met.
+This automation reduces the need for intermediaries and enables decentralized applications.
