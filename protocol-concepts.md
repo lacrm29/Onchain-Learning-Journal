@@ -21,3 +21,9 @@ Improved interoperability expands usability and encourages broader adoption of d
 Consensus models allow distributed participants to agree on the current state of the blockchain.
 Different mechanisms prioritize security, decentralization, or transaction performance depending on network goals.
 Selecting an appropriate consensus model is essential for maintaining reliable protocol operations.
+
+## Liquidity Mechanisms
+
+Liquidity enables users to exchange assets efficiently within decentralized protocols.
+Healthy liquidity pools generally improve price stability and reduce transaction slippage.
+Well-designed liquidity mechanisms contribute to a better overall user experience.
