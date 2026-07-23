@@ -15,3 +15,9 @@ Together, these layers help balance security, performance, and decentralization.
 Modern blockchain ecosystems increasingly rely on interoperability between different networks.
 Bridges and cross-chain messaging solutions enable assets and information to move across ecosystems.
 Improved interoperability expands usability and encourages broader adoption of decentralized technologies.
+
+## Consensus Models
+
+Consensus models allow distributed participants to agree on the current state of the blockchain.
+Different mechanisms prioritize security, decentralization, or transaction performance depending on network goals.
+Selecting an appropriate consensus model is essential for maintaining reliable protocol operations.
