@@ -33,3 +33,9 @@ Well-designed liquidity mechanisms contribute to a better overall user experienc
 Many decentralized protocols allow communities to participate in governance through voting systems.
 Governance frameworks help guide protocol development and future improvements.
 Community participation encourages transparency and shared responsibility within decentralized ecosystems.
+
+## Security Considerations
+
+Security remains one of the most important aspects of blockchain protocols and decentralized applications.
+Regular smart contract audits and transparent development practices help reduce potential vulnerabilities.
+Users should also verify protocol legitimacy before interacting with onchain services.
