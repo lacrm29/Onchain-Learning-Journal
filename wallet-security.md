@@ -21,3 +21,9 @@ Taking a few extra moments to verify each transaction improves overall wallet se
 Smart contract approvals should be reviewed on a regular basis.
 Removing unnecessary permissions helps reduce potential security risks.
 Understanding approval requests is an important part of safe onchain activity.
+
+## Hardware Wallets
+
+Hardware wallets provide an additional layer of protection by keeping private keys offline.
+They are especially useful for securing long-term holdings and valuable digital assets.
+Combining hardware wallets with good security habits significantly improves overall protection.
