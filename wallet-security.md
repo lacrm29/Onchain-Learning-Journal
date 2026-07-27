@@ -15,3 +15,9 @@ Multiple secure backups can help prevent permanent loss of wallet access.
 Users should carefully review transaction details before confirming any blockchain operation.
 Verifying recipient addresses, network information, and permissions helps prevent common mistakes.
 Taking a few extra moments to verify each transaction improves overall wallet security.
+
+## Permission Management
+
+Smart contract approvals should be reviewed on a regular basis.
+Removing unnecessary permissions helps reduce potential security risks.
+Understanding approval requests is an important part of safe onchain activity.
