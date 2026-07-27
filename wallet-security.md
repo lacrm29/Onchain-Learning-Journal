@@ -27,3 +27,9 @@ Understanding approval requests is an important part of safe onchain activity.
 Hardware wallets provide an additional layer of protection by keeping private keys offline.
 They are especially useful for securing long-term holdings and valuable digital assets.
 Combining hardware wallets with good security habits significantly improves overall protection.
+
+## Scam Awareness
+
+Users should remain cautious of phishing websites, fake applications, and fraudulent messages.
+Verifying official sources before connecting a wallet helps reduce unnecessary risks.
+Developing strong security awareness is just as important as using secure technology.
