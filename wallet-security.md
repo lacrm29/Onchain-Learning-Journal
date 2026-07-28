@@ -33,3 +33,9 @@ Combining hardware wallets with good security habits significantly improves over
 Users should remain cautious of phishing websites, fake applications, and fraudulent messages.
 Verifying official sources before connecting a wallet helps reduce unnecessary risks.
 Developing strong security awareness is just as important as using secure technology.
+
+## Security Checklist
+
+Creating a simple security checklist helps reduce the chance of avoidable mistakes during everyday wallet usage.
+Reviewing wallet permissions, confirming transaction details, and verifying official websites should become routine habits.
+A consistent checklist improves confidence when interacting with decentralized applications.
