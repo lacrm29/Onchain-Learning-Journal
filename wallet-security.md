@@ -39,3 +39,9 @@ Developing strong security awareness is just as important as using secure techno
 Creating a simple security checklist helps reduce the chance of avoidable mistakes during everyday wallet usage.
 Reviewing wallet permissions, confirming transaction details, and verifying official websites should become routine habits.
 A consistent checklist improves confidence when interacting with decentralized applications.
+
+## Best Practices
+
+Strong passwords, two-factor authentication, and secure device management provide additional protection for blockchain users.
+Separating long-term storage from everyday wallets can further reduce unnecessary exposure.
+Following established security practices helps maintain a safer experience across different ecosystems.
