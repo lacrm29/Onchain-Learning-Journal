@@ -15,3 +15,9 @@ Practical experience also makes it easier to understand how protocols function i
 Organizing learning materials into structured notes makes information easier to review and expand over time.
 Well-documented observations help connect related concepts across different blockchain topics.
 A consistent documentation process supports continuous improvement and long-term knowledge retention.
+
+## Learning Through Observation
+
+Observing how different blockchain applications operate helps build a stronger understanding of ecosystem design.
+Comparing user experiences across multiple platforms highlights common patterns and implementation differences.
+Documenting these observations makes future learning more structured and easier to review.
