@@ -27,3 +27,9 @@ Documenting these observations makes future learning more structured and easier 
 Knowledge develops more effectively through regular study and gradual refinement.
 Revisiting previously documented topics often reveals new perspectives and deeper understanding.
 Small, consistent updates create a stronger and more sustainable learning process over time.
+
+## Critical Thinking
+
+Learning blockchain concepts requires evaluating information from multiple reliable sources.
+Comparing documentation, technical articles, and practical examples helps develop a more balanced understanding.
+Critical thinking reduces misconceptions and supports better decision-making when exploring new technologies.
