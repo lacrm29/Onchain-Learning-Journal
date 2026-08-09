@@ -17,3 +17,16 @@ A tool that allows users to manage blockchain accounts and interact with decentr
 
 ### Transaction
 A signed instruction submitted to a blockchain for processing and confirmation.
+## DeFi Terms
+
+### Liquidity
+The availability of assets that can be exchanged within a market without causing significant price impact.
+
+### AMM
+An automated market maker is a decentralized trading mechanism that uses liquidity pools and mathematical formulas to facilitate swaps.
+
+### Liquidity Pool
+A pool of assets supplied by users to support trading and other protocol functions.
+
+### Slippage
+The difference between the expected price of a transaction and the price at which it is actually executed.
