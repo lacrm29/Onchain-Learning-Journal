@@ -30,3 +30,17 @@ A pool of assets supplied by users to support trading and other protocol functio
 
 ### Slippage
 The difference between the expected price of a transaction and the price at which it is actually executed.
+
+## Network Terms
+
+### Layer 1
+The primary blockchain network responsible for processing transactions and maintaining its own security.
+
+### Layer 2
+A scaling system built on top of a Layer 1 network to improve transaction capacity and efficiency.
+
+### Gas
+A fee mechanism used to compensate the network for processing transactions and executing blockchain operations.
+
+### Bridge
+A protocol or system that enables assets or information to move between different blockchain networks.
