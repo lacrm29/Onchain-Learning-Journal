@@ -44,3 +44,17 @@ A fee mechanism used to compensate the network for processing transactions and e
 
 ### Bridge
 A protocol or system that enables assets or information to move between different blockchain networks.
+
+## Token Terms
+
+### Token
+A digital asset represented on a blockchain that can serve different purposes within an application or protocol.
+
+### Fungible Token
+A token where each unit is interchangeable with another unit of the same type.
+
+### NFT
+A unique blockchain-based asset that can represent ownership or provenance of a specific digital or physical item.
+
+### Token Standard
+A set of technical rules that defines how a particular type of token behaves and interacts with blockchain applications.
