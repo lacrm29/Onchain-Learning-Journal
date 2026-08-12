@@ -58,3 +58,17 @@ A unique blockchain-based asset that can represent ownership or provenance of a 
 
 ### Token Standard
 A set of technical rules that defines how a particular type of token behaves and interacts with blockchain applications.
+
+## Wallet and Account Terms
+
+### Private Key
+A cryptographic secret that allows an account owner to authorize blockchain transactions.
+
+### Public Address
+A blockchain identifier that can be shared with others for receiving assets or interacting with applications.
+
+### Seed Phrase
+A sequence of words used to recover access to a compatible blockchain wallet.
+
+### Signature
+Cryptographic proof that a transaction or message was authorized by the holder of the corresponding private key.
