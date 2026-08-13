@@ -85,3 +85,17 @@ Total Value Locked represents the amount of assets deposited into a protocol or 
 
 ### Liquidity Provider
 A participant who supplies assets to a liquidity pool and may receive fees or other incentives in return.
+
+## Governance and Security Terms
+
+### Governance
+A process through which participants can influence the development or parameters of a decentralized protocol.
+
+### Multisig
+A wallet or account structure that requires multiple authorized signatures before certain transactions can be executed.
+
+### Audit
+A technical review of blockchain code or smart contracts intended to identify potential security issues.
+
+### Exploit
+An attack that takes advantage of a vulnerability in a blockchain protocol, smart contract, or application.
