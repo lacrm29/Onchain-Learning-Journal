@@ -72,3 +72,16 @@ A sequence of words used to recover access to a compatible blockchain wallet.
 
 ### Signature
 Cryptographic proof that a transaction or message was authorized by the holder of the corresponding private key.
+## DeFi and Market Terms
+
+### Yield
+The return generated from supplying assets or participating in a decentralized protocol.
+
+### Staking
+The process of committing supported assets to help secure or operate a blockchain network in exchange for potential rewards.
+
+### TVL
+Total Value Locked represents the amount of assets deposited into a protocol or ecosystem at a given time.
+
+### Liquidity Provider
+A participant who supplies assets to a liquidity pool and may receive fees or other incentives in return.
