@@ -94,6 +94,20 @@ A process through which participants can influence the development or parameters
 ### Multisig
 A wallet or account structure that requires multiple authorized signatures before certain transactions can be executed.
 
+## Additional Terms
+
+### DAO
+A decentralized autonomous organization that uses blockchain-based mechanisms to coordinate decisions and community participation.
+
+### Gas Fee
+The network cost associated with processing a transaction or executing an operation on a blockchain.
+
+### Onchain
+An action or piece of data that is recorded directly on a blockchain and can be independently verified.
+
+### Offchain
+An action or piece of information handled outside the blockchain rather than being directly recorded onchain.
+
 ### Audit
 A technical review of blockchain code or smart contracts intended to identify potential security issues.
 
