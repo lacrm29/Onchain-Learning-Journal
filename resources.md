@@ -16,3 +16,9 @@ Reviewing primary documentation also helps reduce reliance on incomplete or outd
 Technical articles and educational materials can provide useful context when exploring unfamiliar blockchain concepts.
 Comparing information from multiple sources helps identify different approaches and perspectives.
 Research notes should be reviewed periodically as protocols and technologies continue to change.
+
+## Developer Resources
+
+Developer tools, API references, and example repositories can make practical experimentation easier.
+Hands-on resources are particularly valuable when moving from theoretical concepts to actual blockchain development.
+Keeping frequently used references organized can also improve the efficiency of future experiments.
