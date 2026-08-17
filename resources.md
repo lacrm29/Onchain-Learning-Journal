@@ -10,3 +10,9 @@ Keeping useful references organized makes future research faster and easier.
 Protocol documentation provides detailed information about network architecture, available features, and technical specifications.
 Developer documentation is particularly useful when learning how applications interact with blockchain infrastructure.
 Reviewing primary documentation also helps reduce reliance on incomplete or outdated third-party explanations.
+
+## Research Sources
+
+Technical articles and educational materials can provide useful context when exploring unfamiliar blockchain concepts.
+Comparing information from multiple sources helps identify different approaches and perspectives.
+Research notes should be reviewed periodically as protocols and technologies continue to change.
