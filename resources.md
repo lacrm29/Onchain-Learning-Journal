@@ -28,3 +28,9 @@ Keeping frequently used references organized can also improve the efficiency of 
 Community discussions can provide practical perspectives that may not appear in official documentation.
 Forums, developer communities, and open-source discussions can be useful for discovering common issues and alternative approaches.
 Community information should still be compared with primary sources before being treated as authoritative.
+
+## Reference Organization
+
+Resources are easier to use when they are grouped according to their purpose and topic.
+Separating technical documentation, educational material, and community references keeps the research process organized.
+The resource list can be refined over time as older references become less relevant and new ones are discovered.
