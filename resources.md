@@ -22,3 +22,9 @@ Research notes should be reviewed periodically as protocols and technologies con
 Developer tools, API references, and example repositories can make practical experimentation easier.
 Hands-on resources are particularly valuable when moving from theoretical concepts to actual blockchain development.
 Keeping frequently used references organized can also improve the efficiency of future experiments.
+
+## Community Resources
+
+Community discussions can provide practical perspectives that may not appear in official documentation.
+Forums, developer communities, and open-source discussions can be useful for discovering common issues and alternative approaches.
+Community information should still be compared with primary sources before being treated as authoritative.
