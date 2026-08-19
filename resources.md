@@ -40,3 +40,9 @@ The resource list can be refined over time as older references become less relev
 Practical examples can make complex blockchain concepts easier to understand and apply.
 Example repositories, tutorials, and documented workflows provide useful context for experimentation.
 When using external examples, checking their current status and compatibility is important.
+
+## Resource Maintenance
+
+A useful resource collection should be reviewed and updated as technologies evolve.
+Broken links, outdated documentation, and deprecated tools can reduce the value of a research library.
+Regular maintenance keeps the reference list relevant and easier to use.
