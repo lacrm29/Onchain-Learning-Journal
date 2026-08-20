@@ -46,3 +46,9 @@ When using external examples, checking their current status and compatibility is
 A useful resource collection should be reviewed and updated as technologies evolve.
 Broken links, outdated documentation, and deprecated tools can reduce the value of a research library.
 Regular maintenance keeps the reference list relevant and easier to use.
+
+## Resource Evaluation
+
+Useful resources should be evaluated based on accuracy, relevance, and how recently they have been maintained.
+Primary documentation is generally the best starting point, while community resources can provide additional practical context.
+Combining different types of references creates a more balanced research process.
